@@ -6,8 +6,6 @@ source:
   - url: http://mirror.centos.org/centos/6.10/os/x86_64/Packages/libnl-1.1.4-2.el6.x86_64.rpm
     sha256: 03a7235e747695208a2633fd6515a39377a9b06b7aa866bda1a1e1eabf418869
     folder: binary
-  - url: http://vault.centos.org/6.10/os/Source/SPackages/libnl-1.1.4-2.el6.src.rpm
-    folder: source
 
 build:
   number: 0
