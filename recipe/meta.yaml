@@ -8,7 +8,7 @@ source:
     folder: binary
 
 build:
-  number: 0
+  number: 1
   noarch: generic
   missing_dso_whitelist:
     - '*'
@@ -22,6 +22,7 @@ about:
   home: http://www.infradead.org/~tgr/libnl/
   license: LGPLv2
   license_family: LGPL
+  license_file: COPYING
   summary: "(CDT) Convenience library for kernel netlink sockets"
   description: |
         This package contains a convenience library to simplify using the Linux
