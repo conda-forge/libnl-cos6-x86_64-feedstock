@@ -8,7 +8,7 @@ source:
     folder: binary
 
 build:
-  number: 0
+  number: 1
   noarch: generic
   missing_dso_whitelist:
     - '*'
